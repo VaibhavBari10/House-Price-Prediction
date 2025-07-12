@@ -39,7 +39,6 @@ xgboost
 
 pickle
 
-🔍 Project Structure (Headings from Notebook)
 Project Title: House Price Prediction
 
 Dataset Information
